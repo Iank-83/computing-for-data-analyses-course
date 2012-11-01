@@ -1,3 +1,11 @@
+=================================================================
+factors.R
+lists_dataframes.R
+matrices.R
+objects.R
+vectors.R
+
+
 Copyright © 1990 W. N. Venables
 Copyright © 1992 W. N. Venables & D. M. Smith
 Copyright © 1997 R. Gentleman & R. Ihaka
@@ -17,3 +25,5 @@ Source:
 An Introduction to R
 http://cran.r-project.org/doc/manuals/R-intro.html#Lists-and-data-frames
 2012-11-01
+=================================================================
+
