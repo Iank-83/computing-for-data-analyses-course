@@ -1,0 +1,19 @@
+Copyright © 1990 W. N. Venables
+Copyright © 1992 W. N. Venables & D. M. Smith
+Copyright © 1997 R. Gentleman & R. Ihaka
+Copyright © 1997, 1998 M. Maechler
+Copyright © 1997– R Core Team
+Copyright © 1999–2012 R Core Team
+
+Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.
+
+Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.
+
+Permission is granted to copy and distribute translations of this manual into another language, under the above conditions for modified versions, except that this permission notice may be stated in a translation approved by the R Core Team. 
+
+The used version of this document is 2.15.2 (2012-10-26). 
+
+Source: 
+An Introduction to R
+http://cran.r-project.org/doc/manuals/R-intro.html#Lists-and-data-frames
+2012-11-01
